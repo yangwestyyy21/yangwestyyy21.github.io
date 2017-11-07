@@ -1,9 +1,16 @@
-.1style{
-
+table {
+  background-color: blue;
+  border-style: double;
+  border-width: 2px;
+  }
+p {
+  font-family: Times New Roman;
+  color: black;
+  text-align: center;
   }
   
-.2style{
-
+body {
+  background-color: lightgreen;
   }
   
  .3style{
