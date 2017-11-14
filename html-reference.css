@@ -1,12 +1,25 @@
+
 table {
   background-color: lightblue;
   border-style: double;
   border-width: 2px;
   font-family: Verdana;
   }
+.class1 {
+font-style: italic;
+color: red;
+}
+.class2 {
+font-style: italic;
+color: purple;
+}
+.class3 {
+color: yellow;
+font-style: normal;
+}
 p {
   font-family: Times New Roman;
-  color: purple;
+  color: black;
   text-align: left;
   }
 h1 {
@@ -14,9 +27,7 @@ h1 {
   }
   
 body {
-  background-color: neongreen;
+  background-color: green;
   
   }
   
-
-
