@@ -12,6 +12,9 @@ body {
 }
 
 /* Style the header */
+.420 {
+    float: left;  
+}
 .header {
     background-color: crimson;
     padding: 20px;
