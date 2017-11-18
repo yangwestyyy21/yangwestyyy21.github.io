@@ -102,7 +102,8 @@ img {
   width:100%;
 }
 .style1 {
-  color:navy;
+  font-family: Times New Roman;
+  text-transform: uppercase;
 }
 .style2 {
   color:red;
@@ -111,6 +112,13 @@ img {
 .style3 {
   background-color:yellow;
 }
+
+
+
+
+
+
+
 
 
 
